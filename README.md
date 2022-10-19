@@ -4,6 +4,11 @@ Insights into Cross-Continental Fast Fashion
 
 The following analysis considered the number of inventory items in the Myntra CSV and the number of search results returned using the ASOS API.
 
+Abishai file
+1. contains graphs for autcomplete function for ASOS API
+
+2. Myntra csv data analysis
+
 File Fashion_Lija_Update.ipynb contains: 
 1. Search results for pink, blue, and green by country, as well as agg statistics for each color across countries. 
 
